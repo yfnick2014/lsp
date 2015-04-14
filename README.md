@@ -5,7 +5,7 @@ What is system-level interface, and how do I write system-level applications in 
 ## Menu
 - [Chapter 1. Introduction and Essential Concepts](content/01.md)
 - [Chapter 2. File I/O](content/02.md)
-- Chapter 3. Buffered I/O
+- [Chapter 3. Buffered I/O](content/03.md)
 - Chapter 4. Advanced File I/O
 - Chapter 5. Process Management
 - Chapter 6. Advanced Process Management
