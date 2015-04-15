@@ -37,7 +37,7 @@ What is system-level interface, and how do I write system-level applications in 
   - [Obtaining the Associated File Descriptor](content/03.md#obtaining-the-associated-file-descriptor)
   - [Controlling the Buffering](content/03.md#controlling-the-buffering)
   - [Critiques of Standard I/O](content/03.md#critiques-of-standard-io)
-- Chapter 4. Advanced File I/O
+- [Chapter 4. Advanced File I/O](content/04.md)
 - Chapter 5. Process Management
 - Chapter 6. Advanced Process Management
 - Chapter 7. Threading
