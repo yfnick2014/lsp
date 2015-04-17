@@ -38,6 +38,12 @@ What is system-level interface, and how do I write system-level applications in 
   - [Controlling the Buffering](content/03.md#controlling-the-buffering)
   - [Critiques of Standard I/O](content/03.md#critiques-of-standard-io)
 - [Chapter 4. Advanced File I/O](content/04.md)
+  - [Scatter/Gather I/O](content/04.md#scattergather-io)
+  - [Event Poll](content/04.md#event-poll)
+  - [Mapping Files into Memory](content/04.md#mapping-files-into-memory)
+  - [Advice for Normal File I/O](content/04.md#advice-for-normal-file-io)
+  - [Synchronized, Synchronous, and Asynchoronous Operations](content/04.md#synchronized-synchronous-and-asynchoronous-operations)
+  - [I/O Schedulers and I/O Performance](content/04.md#io-schedulers-and-io-performance)
 - Chapter 5. Process Management
 - Chapter 6. Advanced Process Management
 - Chapter 7. Threading
