@@ -53,7 +53,14 @@ What is system-level interface, and how do I write system-level applications in 
   - [Users and Groups](content/05.md#users-and-groups)
   - [Sessions and Process Groups](content/05.md#sessions-and-process-groups)
   - [Daemons](content/05.md#daemons)
-- Chapter 6. Advanced Process Management
+- [Chapter 6. Advanced Process Management](content/06.md)
+  - [Process Scheduling](content/06.md#process-scheduling)
+  - [The Completely Fair Scheduler](content/06.md#the-completely-fair-scheduler)
+  - [Yielding the Processor](content/06.md#yielding-the-processor)
+  - [Process Priorities](content/06.md#process-priorities)
+  - [Processor Affinity](content/06.md#processor-affinity)
+  - [Real-Time Systems](content/06.md#real-time-systems)
+  - [Resource Limits](content/06.md#resource-limits)
 - Chapter 7. Threading
 - Chapter 8. File and Directory Management
 - Chapter 9. Memory Management
