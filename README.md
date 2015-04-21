@@ -61,7 +61,7 @@ What is system-level interface, and how do I write system-level applications in 
   - [Processor Affinity](content/06.md#processor-affinity)
   - [Real-Time Systems](content/06.md#real-time-systems)
   - [Resource Limits](content/06.md#resource-limits)
-- Chapter 7. Threading
+- [Chapter 7. Threading](content/07.md)
 - Chapter 8. File and Directory Management
 - Chapter 9. Memory Management
 - Chapter 10. Signals
