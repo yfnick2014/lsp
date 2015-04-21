@@ -62,6 +62,13 @@ What is system-level interface, and how do I write system-level applications in 
   - [Real-Time Systems](content/06.md#real-time-systems)
   - [Resource Limits](content/06.md#resource-limits)
 - [Chapter 7. Threading](content/07.md)
+ - [Binaries, Processes, and Threads](content/07.md#binaries-processes-and-threads)
+ - [Multithreading](content/07.md#multithreading)
+ - [Threading Models](content/07.md#threading-models)
+ - [Threading Patterns](content/07.md#threading-patterns)
+ - [Concurrency, Parallelism, and Races](content/07.md#concurrency-parallelism-and-races)
+ - [Synchronization](content/07.md#synchronization)
+ - [Pthreads](content/07.md#pthreads)
 - Chapter 8. File and Directory Management
 - Chapter 9. Memory Management
 - Chapter 10. Signals
