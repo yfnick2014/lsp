@@ -69,7 +69,7 @@ What is system-level interface, and how do I write system-level applications in 
   - [Concurrency, Parallelism, and Races](content/07.md#concurrency-parallelism-and-races)
   - [Synchronization](content/07.md#synchronization)
   - [Pthreads](content/07.md#pthreads)
-- Chapter 8. File and Directory Management
-- Chapter 9. Memory Management
-- Chapter 10. Signals
-- Chapter 11. Time 
+- [Chapter 8. File and Directory Management](content/08.md)
+- [Chapter 9. Memory Management](content/09.md)
+- [Chapter 10. Signals](content/10.md)
+- [Chapter 11. Time](content/11.md)
